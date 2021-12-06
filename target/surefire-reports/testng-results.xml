@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-12-03T12:49:44 IST" name="Suite" finished-at="2021-12-03T12:49:58 IST" duration-ms="14075">
+    <groups>
+    </groups>
+    <test started-at="2021-12-03T12:49:44 IST" name="Test" finished-at="2021-12-03T12:49:58 IST" duration-ms="14075">
+      <class name="tests.SearchTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.SearchTest@22e357dc]" started-at="2021-12-03T12:49:44 IST" name="setup" finished-at="2021-12-03T12:49:51 IST" duration-ms="6990" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchForANonExistingProduct()[pri:0, instance:tests.SearchTest@22e357dc]" started-at="2021-12-03T12:49:51 IST" name="searchForANonExistingProduct" finished-at="2021-12-03T12:49:53 IST" duration-ms="1345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForANonExistingProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@22e357dc]" started-at="2021-12-03T12:49:53 IST" name="tearDown" finished-at="2021-12-03T12:49:53 IST" duration-ms="955" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:tests.SearchTest@22e357dc]" started-at="2021-12-03T12:49:53 IST" name="setup" finished-at="2021-12-03T12:49:57 IST" duration-ms="3134" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="searchForAnExistingProduct()[pri:0, instance:tests.SearchTest@22e357dc]" started-at="2021-12-03T12:49:57 IST" name="searchForAnExistingProduct" finished-at="2021-12-03T12:49:57 IST" duration-ms="786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForAnExistingProduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.SearchTest@22e357dc]" started-at="2021-12-03T12:49:57 IST" name="tearDown" finished-at="2021-12-03T12:49:58 IST" duration-ms="797" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.SearchTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
